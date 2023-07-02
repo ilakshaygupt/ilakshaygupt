@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on Expense Management app
+- 🔭 I’m currently working on Habit Tracker app
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Notes
 - 🤔 I’m looking for help with Notes
