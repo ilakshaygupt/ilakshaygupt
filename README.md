@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on Habit Tracker app
+- 🔭 I’m currently working on Bash to write a terminal based Manga Watcher.
 - 🌱 I’m currently learning Flutter
 - ⚡ Fun fact: I love Anime
 
