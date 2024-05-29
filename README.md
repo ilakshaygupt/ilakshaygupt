@@ -1,7 +1,7 @@
 
 
 - 🔭 I’m currently working on Bash to write a terminal based Manga Watcher.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I love Anime
 
 
