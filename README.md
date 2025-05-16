@@ -17,23 +17,23 @@
   <a href="mailto:iamlakshay04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-```py
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
+```swift
+// !/usr/bin/swift
+// -*- coding: utf-8 -*-
 
-class Developer:
-
-    def __init__(self):
-    self.name = "Lakshay Gupta 😄"
-    self.role = "Backend Developer 💻"
-    self.love = "Python 🐍"
-    self.location = "Somewhere on Earth 🌍"
-
-    def say_hi(self):
+class Developer {
+    let name = "Lakshay Gupta 😄"
+    let role = "Mobile & Backend Developer 📱💻"
+    let loves = ["Swift 🍎", "Flutter 💙", "DevOps 🚀"]
+    let location = "Somewhere on Earth 🌍"
+    
+    func sayHi() {
         print("Thanks for dropping by, hope you find some of my work interesting.")
+    }
+}
 
-me = Developer()
-me.say_hi()
+let me = Developer()
+me.sayHi()
 ```
 
 <h1 align="center">
@@ -47,17 +47,15 @@ me.say_hi()
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/dart-%2300ADD8.svg?style=for-the-badge&logo=dart&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=orange)
 <h3 align="center">
   <img height="25px" src="https://img.shields.io/badge/-Backend Frameworks-faebee?&style=for-the-badge&logoWidth=50" />
 </h3>
 
-![image](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![image](https://img.shields.io/badge/Flask-%2378c7d1.svg?style=for-the-badge&logo=flask&logoColor=white)
+![image](https://img.shields.io/badge/SwiftUI-FF8C00?style=for-the-badge&logo=SWIFT&logoColor=white)
+![image](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=FLUTTER&logoColor=blue)
 
 <h3 align="center">
   <img height="25px" src="https://img.shields.io/badge/-Database-faebee?&style=for-the-badge&logoWidth=50" />
